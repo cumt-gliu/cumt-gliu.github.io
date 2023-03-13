@@ -1,8 +1,7 @@
 ---
-title: Spring原理
+title: springboot
 categories:
-- java
-- Spring
+- 编程
 excerpt: |
   个人整理的编程学习资源，包括Java、spring系列、redis、Kafka、github仓库、好用的工具.
 feature_text: |
