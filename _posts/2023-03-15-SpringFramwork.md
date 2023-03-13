@@ -1,16 +1,13 @@
 ---
-title: springboot
+title: asdfdsfsa
 categories:
 - 编程
 excerpt: |
-  个人整理的编程学习资源，包括Java、spring系列、redis、Kafka、github仓库、好用的工具.
+  qsedfasdfads.
 feature_text: |
   ##  After all, tomorrow is another day!
 feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
-
-
-
 ---
 
 # 工具系列
