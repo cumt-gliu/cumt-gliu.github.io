@@ -2,7 +2,7 @@
 title: springFramWork笔记
 categories:
 - spring
-- Java
+- java
 excerpt: |
   qsedfasdfads.
 feature_text: |
@@ -11,7 +11,7 @@ feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 ---
 
-# 
+
 
 
 
