@@ -47,7 +47,3 @@ spring-boot/
 
 
 
-
-```
-AUTO_PROXY_CREATE_UGC
-```
