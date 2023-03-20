@@ -127,10 +127,8 @@ navigation_header:
   url: /categories/
 - title: Search
   url: /search/
-- title: /About Giannis
+- title: About
   url: /aboutGainnis
-- title: Fork Giannis
-  url: https://github.com/cumt-gliu
 
 navigation_footer:
 - title: Giannis
